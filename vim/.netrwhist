@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/wangkun/Desktop/kk_iot/server'
+let g:netrw_dirhist_2='/proc/tty/driver'
+let g:netrw_dirhist_3='/etc/network'
+let g:netrw_dirhist_4='/home/wangkun/.vim'
